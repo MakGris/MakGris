@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MakGris
+- 👋 Hi, I’m @MaksGris
 - 👀 I’m interested in Swift
 - 🌱 I’m currently learning UIKit
 - 📫 How to reach me maxgrishenko@gmail.com
